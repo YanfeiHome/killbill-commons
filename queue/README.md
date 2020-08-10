@@ -1,6 +1,7 @@
 killbill-queue 它其实是事务性发件箱的一个生产级实现
 ==============
 
+
 * Notification Queue: persistent job queue, used for jobs scheduling
 * Persistent Bus: persistent message bus
 
